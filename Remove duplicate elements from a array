@@ -12,6 +12,7 @@ print ("The list after removing duplicates : " + str(res))
 
 
 output :
-
+###############################################################
 The original list is : [2, 3, 4, 5, 3, 4, 6, 2]
 The list after removing duplicates : [2, 3, 4, 5, 6]
+###############################################################
